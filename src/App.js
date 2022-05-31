@@ -3,6 +3,7 @@ import "../node_modules/augmented-ui/augmented-ui.min.css";
 
 import Intro from "./components/Intro";
 import Schedule from "./components/Schedule";
+import Player from "./components/Player";
 import { useState } from "react";
 
 function App() {
